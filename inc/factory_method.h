@@ -19,7 +19,10 @@ namespace design_pattern
 
 	};
 
-	class 
+	class FileSplitter
+	{
+		
+	};
 
 	class FactoryMethod
 	{
