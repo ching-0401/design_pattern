@@ -19,16 +19,24 @@ namespace design_pattern
 
 	};
 
-	class FileSplitter
+	class FileSplitter: public ISpiltter
 	{
-		
+
 	};
 
-	class FactoryMethod
+	class IFactoryMethod
 	{
 	  private:
+		ISpiltter* m_spiltter;
 	  public:
+		virtual ISpillter* createSpiltter();
 
+	};
+
+	class FileFactory: public IFactoryMethod
+	{
+	  public:
+		ISpiltter* createSpiltter() override;
 	};
 }
 

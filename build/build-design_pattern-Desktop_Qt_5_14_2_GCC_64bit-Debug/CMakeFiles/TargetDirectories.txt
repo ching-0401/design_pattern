@@ -1,3 +1,0 @@
-/home/yuki/CPlusPlus/design_pattern/build/build-design_pattern-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/yuki/CPlusPlus/design_pattern/build/build-design_pattern-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/yuki/CPlusPlus/design_pattern/build/build-design_pattern-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/design_pattern.dir
