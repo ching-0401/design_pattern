@@ -1,4 +1,4 @@
-# Install script for directory: /home/yuki/CPlusPlus/design_pattern
+# Install script for directory: /home/yuki/cpp_projects/design_pattern
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/yuki/CPlusPlus/design_pattern/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/yuki/cpp_projects/design_pattern/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
