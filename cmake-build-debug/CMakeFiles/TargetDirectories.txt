@@ -1,3 +1,0 @@
-/home/yuki/CPlusPlus/design_pattern/cmake-build-debug/CMakeFiles/design_pattern.dir
-/home/yuki/CPlusPlus/design_pattern/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yuki/CPlusPlus/design_pattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir

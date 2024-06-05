@@ -1,12 +1,13 @@
-#include <iostream>
-#include <chrono>
-#include <string>
 #include <bits/stdc++.h>
-#include "singleton.h"
-
 #include <gtest/gtest.h>
+
+#include <chrono>
 #include <future>
+#include <iostream>
+#include <string>
 #include <thread>
+
+#include "singleton/singleton.h"
 
 using namespace std;
 
